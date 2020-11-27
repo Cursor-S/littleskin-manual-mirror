@@ -20,4 +20,5 @@ If you can use both Simplified Chinese and your language fluently, you can help 
 
 ::: tip
 LittleSkin 用户使用手册中的所有内容，除非特别说明，均以 [知识共享 - 署名 - 相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 授权使用。在引用 LittleSkin 用户使用手册中的内容时，请注意遵守许可协议。
+本站为 [LittleSkin 用户使用手册](https://manual.littlesk.in) 镜像站，旨在原用户使用手册挂掉的情况下留个备用。
 :::
